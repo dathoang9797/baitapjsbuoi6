@@ -1,0 +1,7 @@
+#container {
+  display: flex;
+}
+#container div {
+  height: 250px;
+  width: 250px;
+}
