@@ -10,5 +10,5 @@ const timSoNguyenDuongNhoNhat = () => {
   return n;
 };
 
-const result = timSoNguyenDuongNhoNhat();
+const result = timSoNguyenDuongNhoNhat(20);
 console.log({ result });

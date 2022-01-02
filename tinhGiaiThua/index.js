@@ -9,5 +9,5 @@ const tinhGiaiThua = (n) => {
     return sum;
   };
   
-  const result = tinhGiaiThua(8);
+  const result = tinhGiaiThua(9);
   console.log({ result });
